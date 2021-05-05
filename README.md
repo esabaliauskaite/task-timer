@@ -17,7 +17,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `npm run serve`
-Starts the JSON server where the tasks are fetched.\
+Starts the JSON server where the tasks are fetched. 
 
 ### `npm start`
 Starts the development server and displays the task timer
